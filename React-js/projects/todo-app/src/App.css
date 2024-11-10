@@ -1,0 +1,24 @@
+h1 {
+  font-weight: 700;
+  font-size: 2rem;
+  margin: 39px;
+  font-family: "Times New Roman", "Times", "serif";
+}
+
+input {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid black;
+  height: 39px;
+  filter: drop-shadow(12px 16px 20px #000);
+}
+.todo-container {
+  text-align: left;
+}
+
+.me-row{
+margin:7px 3px;
+}
+.my-button{
+  min-width: 100px;
+}
